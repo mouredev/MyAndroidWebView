@@ -1,7 +1,7 @@
 # Tutorial Kotlin: Crear un WebView Android | Español | MoureDev by Brais Moure YouTube channel
-[![Android Studio](https://img.shields.io/badge/Android Studio-3+-green.svg?longCache=true&style=popout-square)]()
+[![Android Studio](https://img.shields.io/badge/AndroidStudio-3+-green.svg?longCache=true&style=popout-square)]()
 [![Kotlin](https://img.shields.io/badge/Kotlin-1+-purple.svg?longCache=true&style=popout-square)]()
-[![Android](https://img.shields.io/badge/Android-API 21+-lightgray.svg?longCache=true&style=popout-square)]()
+[![Android](https://img.shields.io/badge/Android-API21+-lightgray.svg?longCache=true&style=popout-square)]()
 
 **`¡HOLA HACKERMEN! 👋🏼`**
 
