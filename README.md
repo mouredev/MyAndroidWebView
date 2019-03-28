@@ -17,6 +17,7 @@ Aprenderemos a realizar navegaciones, usar un buscador nativo, volver a la pági
 
 ## Videotutorial
 [![TUTORIAL Kotlin: CREAR un WEBVIEW en Android (1 de 2) | Español | MoureDev by Brais Moure](https://img.youtube.com/vi/qwb8qSw1d7s/0.jpg)](https://youtu.be/qwb8qSw1d7s)
+[![TUTORIAL Kotlin: CREAR un WEBVIEW en Android (2 de 2) | Español | MoureDev by Brais Moure](https://img.youtube.com/vi/r4fYJTjZne8/0.jpg)](https://youtu.be/r4fYJTjZne8)
 
 ## Requisitos
 * [Android Studio](https://developer.android.com/studio) 3
